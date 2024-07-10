@@ -1,0 +1,20 @@
+*{
+    
+}
+div.ingredients,div.steps{
+    background-color: bisque;
+    font-weight: 800;
+
+}
+div.steps{
+    background-color: aqua;
+}
+#lasagna-title{
+    
+    background-color: aquamarine;
+    flex: auto;
+    color: brown;
+}
+img{
+    b    margin-bottom: 50px;
+}
